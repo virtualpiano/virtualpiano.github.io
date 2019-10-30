@@ -13,6 +13,9 @@ body {
     margin: 0% auto;
     cursor: default;
 }
+.donate{
+    background-color: yellow;
+}
 
 #piano {
     z-index: 3;
